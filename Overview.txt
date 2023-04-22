@@ -1,0 +1,21 @@
+Creating a dashboard to track the progress of associates' productivity and accuracy in the supply chain industry using Manhattan WMS, SQL, Dematic conveyor systems, and Honeywell Vocollect technologies. Step-by-step plan to gather, clean, transform, and visualize the data. 
+
+Step 1: Define Key Performance Indicators (KPIs)
+The first step is to define the KPIs that you want to track. These KPIs could include metrics such as picking accuracy, productivity, order cycle time, and inventory accuracy. It's essential to determine the most critical metrics that align with your business goals and ensure that they are measurable.
+
+Step 2: Gather Data
+The next step is to gather data from different sources, such as Manhattan WMS, SQL databases, and Dematic conveyor systems. You can extract the data using SQL queries and APIs provided by the respective technologies. Additionally, you can collect data from Honeywell Vocollect technologies by accessing the system logs.
+
+Step 3: Clean and Transform Data
+Before visualizing the data, it's crucial to clean and transform it to ensure accuracy and consistency. You can use tools like Excel or Python to clean and transform the data. Some common data cleaning techniques include removing duplicates, fixing missing values, and standardizing data types. Transformation techniques include data aggregation, summarization, and filtering.
+
+Step 4: Choose a Visualization Tool
+The next step is to choose a visualization tool to display the data. There are many visualization tools available in the market, such as Tableau, Power BI, and QlikView. You can choose the one that best suits your needs and budget.
+
+Step 5: Create the Dashboard
+Once you've gathered, cleaned, transformed, and selected a visualization tool, you can create the dashboard. When creating the dashboard, ensure that it is user-friendly, interactive, and provides a clear picture of the KPIs. Some common industry practices for designing dashboards include using a color-coding scheme, using appropriate chart types, and providing relevant labels and titles.
+
+Step 6: Share the Dashboard
+The final step is to share the dashboard with the relevant stakeholders, including managers, supervisors, and associates. You can share the dashboard via email or a web-based portal, depending on your organization's communication practices.
+
+In conclusion, creating a dashboard to track the progress of associates' productivity and accuracy requires gathering, cleaning, transforming, and visualizing the data using different technologies and industry practices. Following the steps outlined above will help you create an effective dashboard that motivates associates and supports business objectives.
